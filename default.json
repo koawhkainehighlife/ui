@@ -16,7 +16,7 @@
       {
         "tab1": {
           "layout": 2,
-          "buttontext": "Welcome",
+          "buttontext": "Rules & info",
           "title1": "Thanks for installing WBUI2!",
           "title2": "Top right title",
           "text1": "This mod is in an early stage.\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab.",
@@ -27,7 +27,7 @@
       {
         "tab2": {
             "layout": 1,
-            "buttontext": "1 Box layout",
+            "buttontext": "Giveaways & Events ",
             "title1": "title",
             "text1": "This text goes into the box",
             "imageurl": "https://i.imgur.com/mGt3cAF.png"
@@ -36,7 +36,7 @@
       {
         "tab3": {
             "layout": 4,
-            "buttontext": "4 Box layout",
+            "buttontext": "About Us",
             "title1": "Top left title",
             "title2": "Top right title",
             "title3": "bottom left title",
@@ -51,7 +51,7 @@
       {
         "tab4": {
             "layout": 4,
-            "buttontext": "4 Box layout",
+            "buttontext": "Support Community",
             "title1": "Top left title",
             "title2": "Top right title",
             "title3": "bottom left title",
@@ -59,7 +59,7 @@
             "text1": "This text goes into the top left box",
             "text2": "This text goes into the top right box",
             "text3": "This text goes into the bottom left box",
-            "text4": "This text goes into the bottom right box",
+            "text4": "cheat scriptcommand WBUI2 update",
             "imageurl": "https://i.imgur.com/mGt3cAF.png"
           }
       }
