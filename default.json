@@ -4,7 +4,7 @@
         "OpenButton": 0,
         "HideIcon": false,
         "HideIconAfter": 60,
-        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+        "IconURL": "https://i.imgur.com/vpz7ATB.png",
         "DisableIconText": false,
         "IconPosition": 0,
         "IconTextColor": 0,
@@ -15,11 +15,13 @@
     "tabs": [
       {
         "tab1": {
-          "layout": 1,
+          "layout": 2,
           "buttontext": "Welcome",
           "title1": "Thanks for installing WBUI2!",
+          "title2": "Top right title",
           "text1": "This mod is in an early stage.\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab.",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          "text2": "This text goes into the top right box",
+          "imageurl": "https://i.imgur.com/wadIvBy.png"
         }
       },
       {
