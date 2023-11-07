@@ -1,0 +1,104 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "Welcome",
+          "title1": "Thanks for installing WBUI2!",
+          "text1": "This mod is in an early stage.\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab.",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      },
+      {
+        "tab2": {
+            "layout": 1,
+            "buttontext": "1 Box layout",
+            "title1": "title",
+            "text1": "This text goes into the box",
+            "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          }
+      },
+      {
+        "tab3": {
+            "layout": 4,
+            "buttontext": "4 Box layout",
+            "title1": "Top left title",
+            "title2": "Top right title",
+            "title3": "bottom left title",
+            "title4": "bottom right title",
+            "text1": "This text goes into the top left box",
+            "text2": "This text goes into the top right box",
+            "text3": "This text goes into the bottom left box",
+            "text4": "This text goes into the bottom right box",
+            "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          }
+      },
+      {
+        "tab4": {
+            "layout": 4,
+            "buttontext": "4 Box layout",
+            "title1": "Top left title",
+            "title2": "Top right title",
+            "title3": "bottom left title",
+            "title4": "bottom right title",
+            "text1": "This text goes into the top left box",
+            "text2": "This text goes into the top right box",
+            "text3": "This text goes into the bottom left box",
+            "text4": "This text goes into the bottom right box",
+            "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.com/invite/57PsKK8CxB"
+        }
+      },
+      {
+        "link2": {
+          "text": "Website",
+          "url": "https://nightliferp.net/"
+        }
+      },
+      {
+        "link3": {
+          "text": "CurseForge",
+          "url": "https://www.curseforge.com/ark-survival-ascended/"
+        }
+      },
+      {
+        "link4": {
+          "text": "Primal Chaos Mod",
+          "url": "https://www.curseforge.com/ark-survival-ascended/mods/ark-primal-chaos"
+        }
+      },
+      {
+        "link5": {
+          "text": "Dino Stats Calculations",
+          "url": "https://ark.fandom.com/wiki/Creature_stats_calculation"
+        }
+      },
+      {
+        "link6": {
+          "text": "Donate and Support",
+          "url": "https://tinyurl.com/NightlifeRP"
+        }
+      }
+    ]
+  }
+}
