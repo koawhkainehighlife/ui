@@ -16,11 +16,11 @@
       {
         "tab1": {
           "layout": 2,
-          "buttontext": "Rules & info",
-          "title1": "Thanks for installing WBUI2!",
-          "title2": "Top right title",
-          "text1": "This mod is in an early stage.\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab.",
-          "text2": "This text goes into the top right box",
+          "buttontext": "Welcome",
+          "title1": "Rules",
+          "title2": "Info",
+          "text1": "We only have three rules, and they are very simple.\n\n\n1. Do not cheat. This includes mesh nonsense and hacking.\n\n\n2. You and your tribe can build bases, however, randomly leaving turrets and bullshit foundation spam \n\naround the map will result in structure wipe for tribe. If you build FOB, demo it when you are done.\n\n Don't build in a cave unless you plan on living there.\n\n\n3. Don't be toxic. Yes, you can use profanity and fuck with people in global, but it must be in moderation\n\n and just shit talk banter. Dropping racial stuff in global because you are edgey, will get you kicked.\n\n\n IF YOU ARE HAVING PROBLEM GETTING CURSOR TO CLOSE THIS WINDOWS, try alt+tab. \n \n\n .",
+          "text2": "Character Levels= 135. Pending another config fuckup, this should not change.\n\nAt first you might be annoyed about the player health and/or the melee damage stat. \n\nPlease understand, there is an imbue bench that gives people 755% tools and pike. \n\nAs a result our balance is strongly weighted against what you can do with those max capped items.Dino Max Level wild is currently 300.\n\nWith the Primal Chaos Mod, we are still working out balancing.\n\n I will apologize in advance, in case you wake up one day and the dinos are 150.",
           "imageurl": "https://i.imgur.com/wadIvBy.png"
         }
       },
@@ -28,24 +28,26 @@
         "tab2": {
             "layout": 1,
             "buttontext": "Giveaways & Events ",
-            "title1": "title",
-            "text1": "This text goes into the box",
-            "imageurl": "https://i.imgur.com/mGt3cAF.png"
+            "title1": "Giveaways - Contests",
+            "title2": "Events",
+            "text1": "We will have various types of contests in the very near future,\n\n with prizes both in-game and out of game.\n\n\nGiftcards, whitelist, custom dinos, titles, ingame perks, discord Slayer Role\n\n\n",
+            "text2": "We will have events for scavenger hunts, pvp contests, leaderboard winners, and other \n\npvp arena activities once we get more settled in and the game is a little more stable.",
+            "imageurl": "https://i.imgur.com/wadIvBy.png"
           }
       },
       {
         "tab3": {
             "layout": 4,
             "buttontext": "About Us",
-            "title1": "Top left title",
-            "title2": "Top right title",
-            "title3": "bottom left title",
-            "title4": "bottom right title",
+            "title1": "ARK",
+            "title2": "GTA",
+            "title3": "REDM",
+            "title4": "Survival",
             "text1": "This text goes into the top left box",
             "text2": "This text goes into the top right box",
             "text3": "This text goes into the bottom left box",
             "text4": "This text goes into the bottom right box",
-            "imageurl": "https://i.imgur.com/mGt3cAF.png"
+            "imageurl": "https://i.imgur.com/wadIvBy.png"
           }
       },
       {
@@ -60,7 +62,7 @@
             "text2": "This text goes into the top right box",
             "text3": "This text goes into the bottom left box",
             "text4": "cheat scriptcommand WBUI2 update",
-            "imageurl": "https://i.imgur.com/mGt3cAF.png"
+            "imageurl": "https://i.imgur.com/wadIvBy.png"
           }
       }
     ],
