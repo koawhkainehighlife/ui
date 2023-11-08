@@ -7,7 +7,7 @@
         "IconURL": "https://i.imgur.com/vpz7ATB.png",
         "DisableIconText": false,
         "IconPosition": 0,
-        "IconTextColor": 0,
+        "IconTextColor": 4,
         "OpenOnStart": true,
         "OpenOnStartOnlyNewPlayers": true,
         "UpdateInterval": 12
@@ -20,7 +20,7 @@
           "title1": "Rules",
           "title2": "Info",
           "text1": "We only have three rules, and they are very simple.\n\n\n1. Do not cheat. This includes mesh nonsense and hacking.\n\n\n2. You and your tribe can build bases, however, randomly leaving turrets\n\n and bullshit foundation spam around the map will result \n\nin structure wipe for tribe. If you build FOB, demo it when you are done.\n\n Don't build in a cave unless you plan on living there.\n\n\n3. Don't be toxic. Yes, you can use profanity and fuck with people in global, \n\nbut it must be in moderation and just shit talk banter. \n\nDropping racial stuff in global because you are edgey, \n\nwill get you kicked.\n\n\n Alternatively, we may have a server event where we give all of your enemies \n\nrockets to remove you.\n\n\n\nIF YOU ARE HAVING PROBLEM GETTING CURSOR TO CLOSE THIS WINDOW, try alt+tab.",
-          "text2": "Character Levels= 135. Pending another config fuckup, this should not \n\nchange. \n\nAt first you might be annoyed about the player health and/or the melee damage stat. \n\nPlease understand, there is an imbue bench that gives people 755% tools and pike. \n\nAs a result our balance is strongly weighted against what you can do with those max capped items.Dino Max Level wild is currently 300.\n\nWith the Primal Chaos Mod, we are still working out balancing.\n\n I will apologize in advance, in case you wake up one day and the dinos are 150. \n\n\n Secrets about boosted drops\n\n white drop is resources\n\nGreen drops artifacts\n\nBlue Saddles\n\nPurple guns\n\nyellow armor\n\nred tek\n\n The drops will have items that you cant get anywhere else.",
+          "text2": "Character Levels= 105. Pending another config fuckup, this should not \n\nchange. \n\n\nPlease understand, there is an imbue bench that gives people 755% dmg tools and pike. \n\nAs a result our balance is strongly weighted against what you can do with those max capped items.Dino Max Level wild is currently 300.\n\nWith the Primal Chaos Mod, we are still working out balancing.\n\n I will apologize in advance, in case you wake up one day and the dinos are 150. \n\n\n Secrets about boosted drops\n\n <TextStyle.White>white drop is resources</>\n\n<TextStyle.Green>Green drops artifacts</>\n\n<TextStyle.Blue>Blue Saddles and misc</>\n\n<TextStyle.Violet>Purple guns</>\n\n<TextStyle.Yellow>yellow armor</>\n\n<TextStyle.Red>red Tek</>\n\n The drops will have items that you cant get anywhere else. IMPORTANT use the medical station to heal up new tames, and  .",
           "imageurl": "https://i.imgur.com/wadIvBy.png"
         }
       },
