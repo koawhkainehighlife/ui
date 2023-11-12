@@ -53,15 +53,15 @@
       {
         "tab4": {
             "layout": 4,
-            "buttontext": "Support Community",
-            "title1": "Whitelist",
-            "title2": "Dino",
-            "title3": "Contributtor Role",
+            "buttontext": "About Us",
+            "title1": "Fivem Server",
+            "title2": "Redm Server",
+            "title3": "Ark Evolved",
             "title4": "Donation",
             "text1": "Update later",
             "text2": "Update later",
             "text3": "Update later",
-            "text4": "cheat scriptcommand WBUI2 update",
+            "text4": "If you want to donate, please feel free to use the Donate and Support link button below. We have decided that we do not want to offer any type of P2W items on our server. We have always hated it, as players, when we go somewhere else and people are buying bases and high level dinos, so we want to have that same standard in the server we host for our players. However, if you want to express your grattitude, and you enjoy your time here, feel free to support, I promise you it will be appreciated. cheat scriptcommand WBUI2 update",
             "imageurl": "https://i.imgur.com/wadIvBy.png"
           }
       },
@@ -109,7 +109,7 @@
       {
         "link6": {
           "text": "Donate and Support",
-          "url": "https://tinyurl.com/NightlifeRP"
+          "url": "https://tinyurl.com/murphyslaw1000x"
         }
       }
     ]
